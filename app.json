@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "eco2",
-    "slug": "eco2",
+    "name": "Minima-Task",
+    "slug": "Minima-Task",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon.ico",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
